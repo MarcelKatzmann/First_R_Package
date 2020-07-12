@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "marcel@katzmann.biz",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: My first Test-Package
+Description: My first Test-Package. Within this package I learn everything related to R-package development.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

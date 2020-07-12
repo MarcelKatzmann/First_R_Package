@@ -1,11 +1,11 @@
-#' Bind two factors
+#' Bind two factors.
 #'
 #'
-#'#' Create a new factor from two existing factors, where the new factor's levels
+#' Create a new factor from two existing factors, where the new factor's levels
 #' are the union of the levels of the input factors.
 #'
-#' @param a
-#' @param b
+#' @param a the first factor for the concatenation
+#' @param b the second factor for the concatenation
 #'
 #' @return factor
 #' @export
