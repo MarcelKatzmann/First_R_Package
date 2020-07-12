@@ -1,5 +1,5 @@
 Package: FirstPackage
-Title: First Test Package - learn how to build a package from scratch
+Title: First Test Package - learn how to build an R-package from scratch
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Marcel",
@@ -13,3 +13,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Suggests: 
+    testthat
+Imports: 
+    forcats
